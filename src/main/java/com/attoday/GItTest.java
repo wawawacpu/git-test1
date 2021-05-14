@@ -21,5 +21,6 @@ public class GItTest {
         System.out.println("Hello hot-fix!");
         System.out.println("push again！");
         System.out.println("SSH push ！");
+        System.out.println("pull commit！");
     }
 }
